@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [mrgoogleboy.in](mrgoogleboy.in)
 
-- ⚡ Fun fact **CODE OR DIE**
+- ⚡ My Motto **Think Twice, Code Once**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,6 +36,7 @@
 <a href="https://medium.com/mrgoogleboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="mrgoogleboy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mrgoogleboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mrgoogleboy" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mrgoogleboy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mrgoogleboy" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mrgoogleboy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="mrgoogleboy" height="30" width="40" /></a>
 <a href="https://discord.gg/mrgoogleboy#1337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mrgoogleboy#1337" height="30" width="40" /></a>
 </p>
 
